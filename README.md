@@ -8,8 +8,6 @@ It’s built using **HTML**, **CSS**, and **JavaScript**, and deployed live on *
 
 ## 🚀 Live Demo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a1d85f5-0000-4d9c-xxxx-xxxxxxxxxxxx/deploy-status)](https://eclectic-bombolone-3d7552.netlify.app)
-
 🌍 **View Live Site:** [https://eclectic-bombolone-3d7552.netlify.app](https://eclectic-bombolone-3d7552.netlify.app)
 
 ---
