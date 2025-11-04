@@ -79,9 +79,13 @@ bash
 📂 Portfolio
 │
 ├── 📄 index.html          # Main HTML file
+|
 ├── 🎨 style.css           # CSS styling file
+|
 ├── ⚙️ script.js           # JavaScript for effects and interactivity
+|
 ├── 📁 images/             # Folder containing all images used
+|
 └── 📄 README.md           # This file
 
 ---
