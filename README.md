@@ -103,9 +103,8 @@ Footer: Copyright + back-to-top icon
 
 ##👤 Author
 Name: Harsh Chaudhary
-Portfolio: eclectic-bombolone-3d7552.netlify.app
-LinkedIn: Harsh Chaudhary
-WhatsApp: Click to Chat
+Portfolio: https://eclectic-bombolone-3d7552.netlify.app
+LinkedIn:[ Harsh Chaudhary](https://www.linkedin.com/in/harsh-chaudhary-98a09b248)
 
 ---
 
