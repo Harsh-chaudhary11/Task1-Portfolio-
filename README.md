@@ -38,3 +38,80 @@ It’s built using **HTML**, **CSS**, and **JavaScript**, and deployed live on *
 | **Netlify** | Hosting and continuous deployment |
 
 ---
+
+## ⚙️ Setup Instructions
+
+To run this portfolio locally:
+
+1. **Clone this Repository**
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+Navigate to the Folder
+
+bash
+Copy code
+cd your-repo-name
+Open in Browser
+
+Simply open index.html in any browser, or
+
+Use Live Server in VS Code for auto-refresh.
+
+🌐 Deployment on Netlify
+To deploy your own version:
+
+Go to https://www.netlify.com
+
+Log in with GitHub and click “New site from Git”
+
+Choose your repository
+
+Click Deploy Site
+
+Copy your deployed link and replace it in this README under Live Demo
+
+🧭 Folder Structure
+bash
+Copy code
+📂 Portfolio
+│
+├── 📄 index.html          # Main HTML file
+├── 🎨 style.css           # CSS styling file
+├── ⚙️ script.js           # JavaScript for effects and interactivity
+├── 📁 images/             # Folder containing all images used
+└── 📄 README.md           # This file
+📸 Website Sections
+Home: Typewriter intro, profession tagline, and social links
+
+About: Image, short intro, and resume download
+
+Education: Academic history with timeline layout
+
+Skills: Coding & professional skill bars
+
+Contact: Input fields with message box
+
+Footer: Copyright + back-to-top icon
+
+👤 Author
+Name: Harsh Chaudhary
+Portfolio: eclectic-bombolone-3d7552.netlify.app
+LinkedIn: Harsh Chaudhary
+WhatsApp: Click to Chat
+
+🪪 License
+This project is open-source and available under the MIT License.
+
+⭐ If you like this project, give it a star on GitHub!
+
+yaml
+Copy code
+
+---
+
+Would you like me to make a **shorter GitHub-optimized version** (with emojis and clean formatting for mobile view)? It’ll look perfect when people open your repo on phones.
+
+
+
+
+
