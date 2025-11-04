@@ -57,7 +57,7 @@ Simply open index.html in any browser, or
 
 Use Live Server in VS Code for auto-refresh.
 
-🌐 Deployment on Netlify
+##🌐 Deployment on Netlify
 To deploy your own version:
 
 Go to https://www.netlify.com
@@ -70,9 +70,9 @@ Click Deploy Site
 
 Copy your deployed link and replace it in this README under Live Demo
 
-🧭 Folder Structure
+##🧭 Folder Structure
 bash
-Copy code
+
 📂 Portfolio
 │
 ├── 📄 index.html          # Main HTML file
@@ -80,7 +80,9 @@ Copy code
 ├── ⚙️ script.js           # JavaScript for effects and interactivity
 ├── 📁 images/             # Folder containing all images used
 └── 📄 README.md           # This file
-📸 Website Sections
+
+
+##📸 Website Sections
 Home: Typewriter intro, profession tagline, and social links
 
 About: Image, short intro, and resume download
@@ -93,23 +95,16 @@ Contact: Input fields with message box
 
 Footer: Copyright + back-to-top icon
 
-👤 Author
+##👤 Author
 Name: Harsh Chaudhary
 Portfolio: eclectic-bombolone-3d7552.netlify.app
 LinkedIn: Harsh Chaudhary
 WhatsApp: Click to Chat
 
-🪪 License
+##🪪 License
 This project is open-source and available under the MIT License.
 
-⭐ If you like this project, give it a star on GitHub!
-
-yaml
-Copy code
-
----
-
-Would you like me to make a **shorter GitHub-optimized version** (with emojis and clean formatting for mobile view)? It’ll look perfect when people open your repo on phones.
+##⭐ If you like this project, give it a star on GitHub!
 
 
 
