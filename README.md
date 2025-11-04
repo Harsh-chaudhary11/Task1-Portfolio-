@@ -77,7 +77,7 @@ Copy your deployed link and replace it in this README under Live Demo
 bash
 
 📂 Portfolio
-│
+
 ├── 📄 index.html          # Main HTML file
 
 ├── 🎨 style.css           # CSS styling file
