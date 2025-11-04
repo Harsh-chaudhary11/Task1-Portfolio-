@@ -46,16 +46,17 @@ To run this portfolio locally:
 1. **Clone this Repository**
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-Navigate to the Folder
+2. **Navigate to the Folder
 
 bash
 Copy code
 cd your-repo-name
-Open in Browser
 
+3. **Open in Browser
 Simply open index.html in any browser, or
-
 Use Live Server in VS Code for auto-refresh.
+
+---
 
 ##🌐 Deployment on Netlify
 To deploy your own version:
@@ -70,6 +71,8 @@ Click Deploy Site
 
 Copy your deployed link and replace it in this README under Live Demo
 
+---
+
 ##🧭 Folder Structure
 bash
 
@@ -81,6 +84,7 @@ bash
 ├── 📁 images/             # Folder containing all images used
 └── 📄 README.md           # This file
 
+---
 
 ##📸 Website Sections
 Home: Typewriter intro, profession tagline, and social links
@@ -95,14 +99,20 @@ Contact: Input fields with message box
 
 Footer: Copyright + back-to-top icon
 
+---
+
 ##👤 Author
 Name: Harsh Chaudhary
 Portfolio: eclectic-bombolone-3d7552.netlify.app
 LinkedIn: Harsh Chaudhary
 WhatsApp: Click to Chat
 
+---
+
 ##🪪 License
 This project is open-source and available under the MIT License.
+
+---
 
 ##⭐ If you like this project, give it a star on GitHub!
 
